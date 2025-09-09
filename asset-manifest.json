@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/ai-ideation-tool/static/css/main.e6c13ad2.css",
-    "main.js": "/ai-ideation-tool/static/js/main.6a2cc213.js",
-    "static/js/453.6167442c.chunk.js": "/ai-ideation-tool/static/js/453.6167442c.chunk.js",
+    "main.css": "/ai-ideation-tool/static/css/main.8b521c4c.css",
+    "main.js": "/ai-ideation-tool/static/js/main.3e3f7fce.js",
     "index.html": "/ai-ideation-tool/index.html",
-    "main.e6c13ad2.css.map": "/ai-ideation-tool/static/css/main.e6c13ad2.css.map",
-    "main.6a2cc213.js.map": "/ai-ideation-tool/static/js/main.6a2cc213.js.map",
-    "453.6167442c.chunk.js.map": "/ai-ideation-tool/static/js/453.6167442c.chunk.js.map"
+    "main.8b521c4c.css.map": "/ai-ideation-tool/static/css/main.8b521c4c.css.map",
+    "main.3e3f7fce.js.map": "/ai-ideation-tool/static/js/main.3e3f7fce.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.6a2cc213.js"
+    "static/css/main.8b521c4c.css",
+    "static/js/main.3e3f7fce.js"
   ]
 }
